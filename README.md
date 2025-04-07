@@ -26,6 +26,7 @@
 📦 Monitoramento de estoque, receita, lucro e produtos vendidos por loja. Estilo profissional!
 
 🔹 **[Análise de Combustíveis](https://github.com/maxforcedev/analise-gasolina)**  
+🌐 Deploy: [dashboard-vendas.onrender.com](https://analise-gasolina.onrender.com/)
 ⛽ Análise de mais de 100 mil registros com pandas e visualização de preços por estado.
 
 🔹 **[Tela de Login](https://github.com/maxforcedev/tela-login-dash)**  
