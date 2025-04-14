@@ -18,16 +18,20 @@
 
 ### 💼 Meus principais projetos
 
+🔹 **[Dashboard Saúde Pública](https://github.com/maxforcedev/dashboard-saudepublica)**  
+🌐 Deploy: [Clique aqui para acessar](https://dashboard-saudepublica.onrender.com)  
+🏥 Painel completo com indicadores hospitalares, mapa interativo, gráficos e tabela dinâmica. Do Figma ao deploy!
+
 🔹 **[Dashboard de Vendas](https://github.com/maxforcedev/dashboard-vendas)**  
-🌐 Deploy: [dashboard-vendas.onrender.com](https://dashboard-vendas.onrender.com)  
+🌐 Deploy: [Clique aqui para acessar](https://dashboard-vendas.onrender.com)  
 🧠 Foco em análise de performance de equipes e vendedores com filtros, modo dark e deploy.
+
+🔹 **[Análise de Combustíveis](https://github.com/maxforcedev/analise-gasolina)**  
+🌐 Deploy: [Clique aqui para acessar](https://analise-gasolina.onrender.com/)
+⛽ Análise de mais de 100 mil registros com pandas e visualização de preços por estado.
 
 🔹 **[Dashboard Carrefour](https://github.com/maxforcedev/dashboard-carrefour)**  
 📦 Monitoramento de estoque, receita, lucro e produtos vendidos por loja. Estilo profissional!
-
-🔹 **[Análise de Combustíveis](https://github.com/maxforcedev/analise-gasolina)**  
-🌐 Deploy: [dashboard-vendas.onrender.com](https://analise-gasolina.onrender.com/)
-⛽ Análise de mais de 100 mil registros com pandas e visualização de preços por estado.
 
 🔹 **[Tela de Login](https://github.com/maxforcedev/tela-login-dash)**  
 🔐 Interface moderna com autenticação simulada e integração visual com Dash Bootstrap.
