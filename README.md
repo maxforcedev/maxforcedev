@@ -27,7 +27,7 @@
 🧠 Foco em análise de performance de equipes e vendedores com filtros, modo dark e deploy.
 
 🔹 **[Análise de Combustíveis](https://github.com/maxforcedev/analise-gasolina)**  
-🌐 Deploy: [Clique aqui para acessar](https://analise-gasolina.onrender.com/)
+🌐 Deploy: [Clique aqui para acessar](https://analise-gasolina.onrender.com/) 
 ⛽ Análise de mais de 100 mil registros com pandas e visualização de preços por estado.
 
 🔹 **[Dashboard Carrefour](https://github.com/maxforcedev/dashboard-carrefour)**  
