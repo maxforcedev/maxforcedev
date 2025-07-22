@@ -1,66 +1,38 @@
-<h1 align="center">Olá! Eu sou o Luis Felipe (Maxforcedev) 👨‍💻</h1>
+<h1 align="center">👋 Olá, eu sou o Felipe!</h1>
 
 <p align="center">
-  Desenvolvedor de Dashboards | Python Developer | Data Analyst 📊<br>
-  Transformando dados em decisões visuais e inteligentes.
+Desenvolvedor Backend apaixonado por criar soluções reais e escaláveis com Django + Python.
 </p>
 
 ---
 
-### 🚀 Sobre mim
+## ✨ Sobre mim
 
-💡 Apaixonado por tecnologia, dados e interfaces interativas.  
-📍 Estudante de Engenharia de Software e Gestão da tecnologia da Informação | Estácio & IBMR
-📊 Formado na Trilha Dashboards Interativos com Python – Asimov Academy  
-🔧 Gosto de unir Python, análise de dados e visualização para criar soluções reais.
-
----
-
-### 💼 Meus principais projetos
-
-🔹 **[Dashboard Saúde Pública](https://github.com/maxforcedev/dashboard-saudepublica)**  
-🌐 Deploy: [Clique aqui para acessar](https://dashboard-saudepublica.onrender.com)  
-🏥 Painel completo com indicadores hospitalares, mapa interativo, gráficos e tabela dinâmica. Do Figma ao deploy!
-
-🔹 **[Dashboard de Vendas](https://github.com/maxforcedev/dashboard-vendas)**  
-🌐 Deploy: [Clique aqui para acessar](https://dashboard-vendas.onrender.com)  
-🧠 Foco em análise de performance de equipes e vendedores com filtros, modo dark e deploy.
-
-🔹 **[Análise de Combustíveis](https://github.com/maxforcedev/analise-gasolina)**  
-🌐 Deploy: [Clique aqui para acessar](https://analise-gasolina.onrender.com/)<br>
-⛽ Análise de mais de 100 mil registros com pandas e visualização de preços por estado.
-
-🔹 **[Dashboard Carrefour](https://github.com/maxforcedev/dashboard-carrefour)**  
-📦 Monitoramento de estoque, receita, lucro e produtos vendidos por loja. Estilo profissional!
-
-🔹 **[Tela de Login](https://github.com/maxforcedev/tela-login-dash)**  
-🔐 Interface moderna com autenticação simulada e integração visual com Dash Bootstrap.
+- 🧠 Curioso por natureza, estudando diariamente arquitetura limpa e boas práticas.
+- 🎓 Graduando Engenharia de Software e Gestão da Tecnologia da informação
+- 🎓 Em constante evolução com foco em back-end moderno (APIs, segurança, testes, etc).
+- 🛠️ Atualmente desenvolvendo sistemas reais como o Sistema de gestao para prefeituras, escolares e juridicos.
+- 🚀 Buscando oportunidades para aplicar conhecimento em projetos com impacto e valor de mercado.
 
 ---
 
-### 🛠️ Tech Stack
+## 🔧 Stack Principal
 
-- Python • Pandas • Dash • Plotly • Streamlit  
-- Git/GitHub • Dash Bootstrap Components • HTML  
-- Render • Deploy Web • PostgreSQL • Node.js
+- Django • Django REST Framework • PostgreSQL
+- Pandas, Matplotlib e 
+- Python moderno (async, tipagem, environment)
+- Testes (Pytest) • Docker • Git
+- Deploys com EasyPanel / VPS / GitHub Actions
+
+---
+![snake gif](https://github.com/maxforcedev/maxforcedev/blob/output/github-contribution-grid-snake.svg)
+
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxforcedev)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-red?style=flat&logo=github&logoColor=white)](https://maxforcedev.com.br)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail&logoColor=white)](mailto:lfcvs.rj@gmail.com)
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maxforcedev&show_icons=true&theme=dark&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxforcedev&layout=compact&theme=dark"/>
-</p>
-
----
-
-### 📫 Conecte-se comigo
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/maxforcedev)
-- 💻 [Meus projetos](https://github.com/maxforcedev?tab=repositories)
-- 🚀 Em construção: meu portfólio pessoal!
-
----
-
-🧠 *“Persistência e projeto real valem mais que 10 tutoriais sem prática.”*  
+### 🏁 Em construção, sempre evoluindo...
