@@ -25,9 +25,11 @@ Desenvolvedor Backend focado em criar soluções reais e escaláveis com Django 
 
 ---
 
-## 🐍 Atividade GitHub
-
-![snake gif](https://github.com/maxforcedev/maxforcedev/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
