@@ -1,31 +1,35 @@
 <h1 align="center">👋 Olá, eu sou o Felipe!</h1>
 
 <p align="center">
-Desenvolvedor Backend apaixonado por criar soluções reais e escaláveis com Django + Python.
+Desenvolvedor Backend focado em criar soluções reais e escaláveis com Django e Python.
 </p>
 
 ---
 
 ## ✨ Sobre mim
 
-- 🧠 Curioso por natureza, estudando diariamente arquitetura limpa e boas práticas.
-- 🎓 Graduando Engenharia de Software e Gestão da Tecnologia da informação
-- 🎓 Em constante evolução com foco em back-end moderno (APIs, segurança, testes, etc).
-- 🛠️ Atualmente desenvolvendo sistemas reais como o Sistema de gestao para prefeituras, escolares e juridicos.
-- 🚀 Buscando oportunidades para aplicar conhecimento em projetos com impacto e valor de mercado.
+- 🎓 Graduando em Engenharia de Software e Gestão da Tecnologia da Informação.  
+- 🧠 Entusiasta de arquitetura limpa, testes, segurança e boas práticas em APIs.
+- 🚀 Atualmente desenvolvendo sistemas para gestão escolar, municipal e jurídica.
+- 🛠️ Buscando aplicar tecnologia com propósito em projetos de impacto e valor real.
 
 ---
 
-## 🔧 Stack Principal
+## 🛠️ Stack Principal
 
-- Django • Django REST Framework • PostgreSQL
-- Pandas, Matplotlib e 
-- Python moderno (async, tipagem, environment)
-- Testes (Pytest) • Docker • Git
-- Deploys com EasyPanel / VPS / GitHub Actions
+- Django • Django REST Framework • PostgreSQL  
+- Python moderno (async, tipagem, envs)  
+- Pandas • Matplotlib  
+- Pytest • Docker • Git  
+- Deploy com EasyPanel • VPS • GitHub Actions
 
 ---
+
+## 🐍 Atividade GitHub
+
 ![snake gif](https://github.com/maxforcedev/maxforcedev/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 🌐 Onde me encontrar
 
@@ -35,4 +39,6 @@ Desenvolvedor Backend apaixonado por criar soluções reais e escaláveis com Dj
 
 ---
 
-### 🏁 Em construção, sempre evoluindo...
+<p align="center">
+  <strong>🏁 Em constante evolução — construindo com propósito.</strong>
+</p>
